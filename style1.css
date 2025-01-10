@@ -1,0 +1,38 @@
+.nav-link{
+  color:aliceblue;
+}
+
+.nav-link.active {
+  color: rgb(105, 238, 194) !important; /* Example active color */
+}
+
+.nav-link:hover{
+  color:red;
+}
+.carousel-caption h1{
+  font-size: 100px;
+
+
+}
+.carousel-caption p{
+  font-size: 40px;
+
+
+}
+.carousel-caption{
+margin-bottom: 15%;
+}
+.carousel-caption img::after{
+  background-color:rgba(0,0,0,0.2);
+}
+
+#About p{
+  font-size: 23px;
+}
+.card:hover{
+transform: translateY(-10px);
+}
+.cardf:hover{
+  transform: none;
+}
+
